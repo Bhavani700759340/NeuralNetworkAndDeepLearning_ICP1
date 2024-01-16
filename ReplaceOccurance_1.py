@@ -6,7 +6,7 @@ Sample input:
 Sample output:
 •I love playing with pythons
 '''
-#HERE SPACE AND TIME COMPLEXITY - O(N+M)
+
 inputString = input("Enter the Statement : ")
 
 inputString = inputString.replace("python","pythons")
